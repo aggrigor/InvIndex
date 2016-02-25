@@ -13,7 +13,6 @@ import java.util.TreeMap;
 /**Inverted Index Project for I.R - uth
  *
  * @author Aggeliki Grigoropoulou
- * AEM : 699
  * 
  * Spring Semester 2014
  */
